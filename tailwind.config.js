@@ -5,8 +5,8 @@ module.exports = {
   ],
     theme: {
       fontFamily: {
-        'Macondo': ['Macondo', 'Normal'],
-        'Inter' : ['Inter', 'normal']
+        'macondo': ['Macondo', 'Normal'],
+        'inter' : ['Inter', 'normal']
       },
       extend: {},
   },
